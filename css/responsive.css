@@ -1,0 +1,10 @@
+@media(max-width:900px) {
+
+    .A,
+    .B,
+    .C {
+        background-color: rgba(0, 0, 0, 0);
+        border: 0;
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+}
